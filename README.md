@@ -295,3 +295,7 @@ https://youtu.be/PhxZamqYJws
 			how to configure jenkins git pre commit build
 			
 https://www.cloudbees.com/blog/dont-phunk-my-stable-branch-jenkins-pre-tested-commits-stop-breaking-stable-branches
+
+			GETTING COVERAGE REPORTS WITH ANGULAR using SonarQube
+
+https://yuriburger.net/2018/09/24/getting-coverage-reports-with-angular/
