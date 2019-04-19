@@ -292,3 +292,6 @@ http://49.204.209.163:8080/github-webhook-  payload url
 
 https://youtu.be/PhxZamqYJws
 
+			how to configure jenkins git pre commit build
+			
+https://www.cloudbees.com/blog/dont-phunk-my-stable-branch-jenkins-pre-tested-commits-stop-breaking-stable-branches
